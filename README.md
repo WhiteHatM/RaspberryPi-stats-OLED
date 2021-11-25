@@ -20,7 +20,7 @@ Or alternatively:
 
 ```
 sudo python -m pip install --upgrade pip setuptools wheel
-git clone https://github.com/adafruit/Adafruit_Python_SSD1306.git
+git clone https://github.com/WhiteHatM/RaspberryPi-stats-OLED
 cd Adafruit_Python_SSD1306
 sudo python setup.py install
 ```
